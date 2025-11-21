@@ -1,0 +1,6 @@
+streamlit
+pandas
+openpyxl
+pdfplumber
+openai>=1.6.0
+python-dotenv
